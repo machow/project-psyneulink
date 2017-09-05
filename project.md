@@ -35,7 +35,7 @@ type: NotebookTask
 ```
 
 `@context`
-Provide some context for this first task. It describes what the task is about and the data it uses.
+Provide some context for this second task. It describes what the task is about and the data it uses.
 
 `@instructions`
 These are explicit instructions showing the student how to solve the task.
