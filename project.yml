@@ -1,5 +1,5 @@
 title          : Your Project Title
 description    : This is the description of your project.
 language       : python
-from           : 'python-base-prod:20'
+from           : 'python-notebooks-prod:28'
 runtime_config : default
