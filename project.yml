@@ -3,3 +3,4 @@ description    : This is the description of your project.
 language       : python
 from           : 'python-notebooks-prod:28'
 runtime_config : default
+technology     : 2
