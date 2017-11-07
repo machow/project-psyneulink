@@ -1,6 +1,6 @@
 title          : Your Project Title
 description    : This is the description of your project.
 language       : python
-from           : 'python-notebooks-prod:78'
+from           : 'python-notebooks-prod:93'
 runtime_config : default
 technology     : 2
