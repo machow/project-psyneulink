@@ -1,6 +1,5 @@
-# Your Project Title Here
-
-## Project development resources
+# Project - The Project Title Here
 
 * Project admin page: https://www.datacamp.com/teach/
-* Technical documentation: https://www.datacamp.com/teach/documentation
+* Preview project on DataCamp: https://www.datacamp.com/teach/
+* Documentation: http://teach-documentation.herokuapp.com/projects/

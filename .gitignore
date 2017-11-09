@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+__pycache__
+.DS_Store
+project_template_todo.txt
+.Rproj.user
+*.Rproj
+.Rhistory
