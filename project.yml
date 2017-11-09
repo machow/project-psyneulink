@@ -7,9 +7,9 @@ long_description: |
   A longer description of the project around 3 - 4 lines. 
   Should mention and link to prerequsite courses.
 time_needed: "45 minutes" # "30/45/60 minutes".
-instructors: # DataCamp-connected email of the creator of the Project
+instructors: # DataCamp connected email of the creator of the Project
   - rasmus@datacamp.com
-collaborators: # DataCamp-connected email of people that helped with teh Project
+collaborators: # DataCamp connected email of people that helped with teh Project
   - rasmus@datacamp.com
 
 #### Metadata regarding course requirements and topics ####
@@ -19,17 +19,13 @@ technology: 2 # 1 == R, 2 == python, 3 == sql
 # See https://mb.datacamp.com/question/126 for IDs
 prerequisites: 
   - 799
-  - 1639
-  - 1550
 difficulty_level: 2 # 1 == easy, 2 == medium, 3 == hard
 # IDs for the topics the project covers
 # See https://mb.datacamp.com/question/319 for IDs
 topics:
-  - 3
-  - 4
   - 12
 # A link to the cover illustration of the project.
-illustration: "https://s3.amazonaws.com/assets.datacamp.com/production/project_20/datasets/project_image.png"
+illustration: "https://s3.amazonaws.com/assets.datacamp.com/production/project_37/datasets/project_image.png"
 
 #### Technical settings for the docker image running the project ####
 #### This will be updated by your DataCamp contact.              ####
