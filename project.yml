@@ -21,11 +21,10 @@ prerequisites:
   - 799
 difficulty_level: 2 # 1 == easy, 2 == medium, 3 == hard
 # IDs for the topics the project covers
-# See https://mb.datacamp.com/question/319 for IDs
-topics: 
+# See https://authoring.datacamp.com/projects/projects-repo-structure.html for IDs
+topics:
+  - 2
   - 12
-# A link to the cover illustration of the project.
-illustration: "https://s3.amazonaws.com/assets.datacamp.com/production/project_37/datasets/project_image.png"
 
 #### Technical settings for the docker image running the project ####
 #### This will be updated by your DataCamp contact.              ####

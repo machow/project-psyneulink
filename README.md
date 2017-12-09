@@ -1,14 +1,13 @@
 # Project - The Project Title Here
 
-As a Project creator you will work in the `develop` branch of the project:
+As a Project creator you will work in the `develop` branch of the project. Here is the Project `develop` admin page (where you also can preview the project):
 
-* Project `develop` admin page:https://www.datacamp.com/teach/repositories/1843/branches/master
-* Preview `develop` project on DataCamp: https://projects.datacamp.com/projects/37
+https://www.datacamp.com/teach/repositories/1843/branches/master
 
-The live project the students will see live in the `master` branch:
+The live project the students will see live in the `master` branch. Here is the Project `master` admin page: 
 
-* Project `master` admin page: https://www.datacamp.com/teach/repositories/1843/branches/master
-* Preview `master` project on DataCamp: https://projects.datacamp.com/projects/37
+https://www.datacamp.com/teach/repositories/1843/branches/master
+
 
 ---
 
