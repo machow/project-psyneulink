@@ -30,5 +30,5 @@ topics:
 #### This will be updated by your DataCamp contact.              ####
 language       : python # One of r, python or sql
 # The name of the docker image used to run the course
-from           : 'python-notebooks-prod:93'
+from           : 'python-notebooks-prod:105'
 runtime_config : default # default/heavy . Set to heavy for more resource intensive projects.
