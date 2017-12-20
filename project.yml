@@ -21,9 +21,8 @@ prerequisites:
   - 799
 difficulty_level: 2 # 1 == easy, 2 == medium, 3 == hard
 # IDs for the topics the project covers
-# See https://authoring.datacamp.com/projects/projects-repo-structure.html for IDs
+# See https://authoring.datacamp.com/projects/projects-repo-structure.html#project-yml for IDs
 topics:
-  - 2
   - 12
 
 #### Technical settings for the docker image running the project ####
