@@ -21,5 +21,5 @@ There are some packages you need to be able to create DataCamp Projects locally.
 
 ```
 pip install nose
-pip install git+https://github.com/akaihola/ipython_nose
+pip install git+https://github.com/datacamp/ipython_nose
 ```
