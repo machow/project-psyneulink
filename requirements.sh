@@ -7,4 +7,4 @@ set -e
 
 # For example, install specific package versions with pip 
 # pip3 install pandas==0.20.3
-
+pip3 install psyneulink[tutorial]
